@@ -68,6 +68,27 @@ background: rgba(0,0,0,0);
 
 /*seccion1*/
 
+/*seccion2*/
+
+.img{
+	width:100%;
+	margin-top:5%;
+}
+.blue:hover{
+  opacity:1;
+}
+
+.blue{
+	position:absolute;
+	left:40%;
+	top:30%;
+	background-color:rgba(250, 130,88,0.5);
+    width:20%;
+    height:20%;
+    opacity:0;
+}
+
+/*seccion2*/
 
 
 
