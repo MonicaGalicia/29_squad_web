@@ -1,6 +1,6 @@
 
 *{
-	font-family:verdana;
+	font-family: 'Courgette', cursive;
 }
 
 a{
@@ -26,11 +26,6 @@ nav.navbar  { /*color navegador*/
   .carousel-inner > .item > a > img {
       width: 100%;
      }
-
-p{
-	font-family:Verdana;
-}
-
 #btn-watch{
   width:25%;
   display:block;
